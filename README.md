@@ -1,1 +1,2 @@
-# pokecalc
+# PokéCalc
+
