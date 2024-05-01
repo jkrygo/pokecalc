@@ -1,3 +1,5 @@
+View my other projects [here](https://github.com/jkrygo/)!
+
 # PokéCalc
 
 PokéCalc is an application that allows users to lookup information on a given Gen1 Pokémon. They can also calculate the stats of a desired Pokémon based on a variety of criteria that they are required to enter. This is a project I created for a Java class at my university.
